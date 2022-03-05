@@ -1,0 +1,1 @@
+body{background:url(./large-background-mobile.jpg) no-repeat center center fixed}@media screen and (min-width:766px){body{background:url(./large-background-tablet.jpg) no-repeat center center fixed}}@media screen and (min-width:1080px){body{background:url(./large-background-desktop.jpg) no-repeat center center fixed}}h1{color:red}
